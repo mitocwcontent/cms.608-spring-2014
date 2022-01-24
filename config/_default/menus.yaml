@@ -1,0 +1,45 @@
+leftnav:
+- identifier: dcb35fe9-0d76-3884-2027-5fece4f501a6
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: dcab844f-89dc-4aa9-1391-34f066e5d8d2
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: 58bbf1fb-ceed-0939-abc9-3070d8f6b884
+  name: Instructor Insights
+  url: /pages/instructor-insights/
+  weight: 30
+- identifier: d1d98d01-b98a-b7bb-ba9e-c8c72802745b
+  name: Preparing for the Semester and Class Sessions
+  parent: 58bbf1fb-ceed-0939-abc9-3070d8f6b884
+  url: /pages/instructor-insights/preparing-for-the-semester-and-class-sessions
+  weight: 40
+- identifier: d28a7f15-84fb-4c66-1599-3d84ac739fb1
+  name: Building Game Playing Experience
+  parent: 58bbf1fb-ceed-0939-abc9-3070d8f6b884
+  url: /pages/instructor-insights/building-game-playing-experience
+  weight: 50
+- identifier: 9554499d-9d09-ed9f-a9e9-8de3755f881f
+  name: Assessment Design
+  parent: 58bbf1fb-ceed-0939-abc9-3070d8f6b884
+  url: /pages/instructor-insights/assessment-design
+  weight: 60
+- identifier: 68b591bd-e6ba-9e2e-16d7-da1a27bf9b95
+  name: Factors Impacting Teaching
+  parent: 58bbf1fb-ceed-0939-abc9-3070d8f6b884
+  url: /pages/instructor-insights/factors-impacting-teaching
+  weight: 70
+- identifier: 217110d0-9356-e7df-be34-f4e9e8cb2b03
+  name: Readings
+  url: /pages/readings
+  weight: 80
+- identifier: 7b4c102e-6c71-d883-888c-414036092c53
+  name: Audio Lectures
+  url: /pages/audio-lectures
+  weight: 90
+- identifier: 0c532bff-cfdf-6a8c-2a45-eb1d552c2516
+  name: Assignments and Student Work
+  url: /pages/assignments-and-student-work
+  weight: 100
